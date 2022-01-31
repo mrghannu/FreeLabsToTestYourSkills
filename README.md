@@ -3,14 +3,23 @@
 ----------------------------------------------------------------------------
 
 Academy Hackaflag BR - https://t.co/B5680kUchx
+
 Attack-Defense - https://t.co/2HWjwyFPof
+
 Alert to win - https://t.co/tlDTbibF1m
+
 CTF Komodo Security - https://t.co/RmvkdXxpya
+
 CMD Challenge - https://t.co/7P1fZz2fLw
+
 Explotation Education - https://t.co/oYhk62GFjy
+
 Google CTF - https://t.co/UEF8V6hwcQ
+
 HackTheBox - https://t.co/LIfFtpmjtO
+
 Hackthis - https://t.co/TAdNLMa0oe
+
 Hacksplaining - https://t.co/8DqgvSZ4wp
 Hacker101 - https://t.co/TQycSbXPcp
 Hacker Security - https://t.co/85QwrKVcpV
